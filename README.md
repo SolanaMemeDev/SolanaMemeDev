@@ -26,8 +26,6 @@ I believe that great results come from a product of great passion and my positiv
 - Pumpfun auto trading bot
 - Paper trading bot
 
-### My GitHub Stats
-<a href="http://www.github.com/SolanaMemeDev"><img src="https://github-readme-stats.vercel.app/api?username=SolanaMemeDev&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="SolanaMemeDev's GitHub stats" /></a>
 <!--
 **bambi-bf/bambi-bf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
